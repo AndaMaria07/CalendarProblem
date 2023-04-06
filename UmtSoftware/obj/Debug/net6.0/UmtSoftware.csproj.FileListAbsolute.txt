@@ -1,0 +1,17 @@
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\UmtSoftware.csproj.AssemblyReference.cache
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\UmtSoftware.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\UmtSoftware.AssemblyInfoInputs.cache
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\UmtSoftware.AssemblyInfo.cs
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\UmtSoftware.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\bin\Debug\net6.0\UmtSoftware.exe
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\bin\Debug\net6.0\UmtSoftware.deps.json
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\bin\Debug\net6.0\UmtSoftware.runtimeconfig.json
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\bin\Debug\net6.0\UmtSoftware.dll
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\bin\Debug\net6.0\UmtSoftware.pdb
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\UmtSoftware.dll
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\refint\UmtSoftware.dll
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\UmtSoftware.pdb
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\UmtSoftware.genruntimeconfig.cache
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\ref\UmtSoftware.dll
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\bin\Debug\net6.0\Itenso.TimePeriod.dll
+D:\Facultate\Anul3\umtSoft\UmtSoftware\UmtSoftware\obj\Debug\net6.0\UmtSoftware.csproj.CopyComplete
